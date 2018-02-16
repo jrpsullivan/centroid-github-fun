@@ -1,2 +1,5 @@
-# centroid-github-fun
-repo for playing with github
+# Centroid learning Github
+
+This isn't boring. I just like to multi task.
+
+![some cat image i found](https://getlol.info/wp-content/uploads/2012/05/silly-cat-600x401.jpg)
